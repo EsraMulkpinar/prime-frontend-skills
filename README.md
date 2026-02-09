@@ -85,3 +85,4 @@ AI agents keep producing the same generic output: purple gradients, Inter font, 
 ### Why only ~100 lines?
 
 Agents already know Zod, Error Boundaries, CSP headers. Re-teaching wastes tokens. This skill only contains what agents get wrong by default or tend to forget.
+# prime-frontend-skills
