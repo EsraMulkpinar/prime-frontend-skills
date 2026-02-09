@@ -1,4 +1,4 @@
-# frontend-prime-skills
+# prime-frontend-skills
 
 AI agent'lar için frontend geliştirme skill'i. Jenerik "AI slop" çıktılarına son.
 
@@ -9,18 +9,18 @@ AI agent'lar için frontend geliştirme skill'i. Jenerik "AI slop" çıktıları
 ### Kurulum
 
 ```bash
-npx skills add EsraMulkpinar/frontend-prime-skills
+npx skills add EsraMulkpinar/prime-frontend-skills
 ```
 
 ### Agent'a Göre Kurulum
 
 ```bash
-npx skills add EsraMulkpinar/frontend-prime-skills -a claude-code   # Claude Code
-npx skills add EsraMulkpinar/frontend-prime-skills -a cursor         # Cursor
-npx skills add EsraMulkpinar/frontend-prime-skills -a vscode         # VS Code / Copilot
-npx skills add EsraMulkpinar/frontend-prime-skills -a codex          # Codex
-npx skills add EsraMulkpinar/frontend-prime-skills -a windsurf       # Windsurf
-npx skills add EsraMulkpinar/frontend-prime-skills -a '*'            # Hepsine birden
+npx skills add EsraMulkpinar/prime-frontend-skills -a claude-code   # Claude Code
+npx skills add EsraMulkpinar/prime-frontend-skills -a cursor         # Cursor
+npx skills add EsraMulkpinar/prime-frontend-skills -a vscode         # VS Code / Copilot
+npx skills add EsraMulkpinar/prime-frontend-skills -a codex          # Codex
+npx skills add EsraMulkpinar/prime-frontend-skills -a windsurf       # Windsurf
+npx skills add EsraMulkpinar/prime-frontend-skills -a '*'            # Hepsine birden
 ```
 
 ### Claude.ai'da Kullanım
@@ -51,18 +51,18 @@ Agent'lar Zod, Error Boundary, CSP gibi şeyleri zaten biliyor. Tekrar öğretme
 ### Install
 
 ```bash
-npx skills add EsraMulkpinar/frontend-prime-skills
+npx skills add EsraMulkpinar/prime-frontend-skills
 ```
 
 ### Per Agent
 
 ```bash
-npx skills add EsraMulkpinar/frontend-prime-skills -a claude-code     # Claude Code
-npx skills add EsraMulkpinar/frontend-prime-skills -a cursor           # Cursor
-npx skills add EsraMulkpinar/frontend-prime-skills -a vscode           # VS Code / Copilot
-npx skills add EsraMulkpinar/frontend-prime-skills -a codex            # Codex
-npx skills add EsraMulkpinar/frontend-prime-skills -a windsurf         # Windsurf
-npx skills add EsraMulkpinar/frontend-prime-skills -a '*'              # All agents
+npx skills add EsraMulkpinar/prime-frontend-skills -a claude-code     # Claude Code
+npx skills add EsraMulkpinar/prime-frontend-skills -a cursor           # Cursor
+npx skills add EsraMulkpinar/prime-frontend-skills -a vscode           # VS Code / Copilot
+npx skills add EsraMulkpinar/prime-frontend-skills -a codex            # Codex
+npx skills add EsraMulkpinar/prime-frontend-skills -a windsurf         # Windsurf
+npx skills add EsraMulkpinar/prime-frontend-skills -a '*'              # All agents
 ```
 
 ### Using on Claude.ai
