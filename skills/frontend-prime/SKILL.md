@@ -30,7 +30,6 @@ Before writing ANY code, decide:
 These instantly mark output as AI-generated. **Never:**
 
 - Purple/blue gradient on white cards
-- Inter, Roboto, Arial as defaults
 - Every element with identical `rounded-xl`
 - Perfectly centered, symmetrical layouts with no visual tension
 - `text-gray-600` on everything

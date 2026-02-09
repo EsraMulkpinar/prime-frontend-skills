@@ -25,7 +25,7 @@ npx skills add EsraMulkpinar/prime-frontend-skills -a '*'              # All age
 
 ### What it does
 
-AI agents keep producing the same generic output: purple gradients, Inter font, symmetrical card grids, no SEO. This skill fixes that:
+AI agents keep producing the same generic output: purple gradients, symmetrical card grids, no SEO. This skill fixes that:
 
 - Design decisions before code
 - AI slop blacklist — what never to do
